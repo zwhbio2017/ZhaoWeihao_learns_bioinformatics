@@ -10,4 +10,4 @@ This is a repository of **Zhao Weihao** learning to master bioinformatics. The f
 
 ### Markdown
 
-`/Markdown` directory has files written in Markdown language, both tests for Markdown language and pages written in Markdown language.
+`/Markdown` directory has files written in Markdown language to test Markdown language.
