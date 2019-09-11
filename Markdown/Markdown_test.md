@@ -40,4 +40,34 @@ Or you can visit my github account page by clicking this link: [my page "my acco
 
 ## Highlight
 
+You can highlight `everything`, or you can highlight code regarding to the language.
+
+```C
+//C
+printf("Hello world.\n");
+```
+
+```java
+//java
+System.out.println("Hello world.")
+```
+
+```python
+#python2
+print "Hello world."
+#python3
+print("Hello world.")
+```
+
 ## Tables
+
+You can even use Markdown to make a table:
+
+| Left-aligned | Center-aligned | Right-aligned |
+| ------------ | :------------: | ------------: |
+| This         | is             | dope          |
+| Another      | color is       | also cool     |
+
+## Quotes
+
+> I did not say this.             --Zhou Yucai
