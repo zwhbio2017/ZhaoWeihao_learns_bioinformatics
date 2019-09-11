@@ -36,6 +36,8 @@ You can enter main page by clicking this link: [home page](https://github.com/zw
 
 Or you can visit my github account page by clicking this link: [my page "my account page"]
 
+Or you can see my personal page on https://zwhbio2017.github.io/github-page_test/.
+
 [my page]: https://github.com/zwhbio2017
 
 ## Highlight
